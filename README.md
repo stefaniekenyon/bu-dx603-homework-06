@@ -1,1 +1,1 @@
-# bu-dx603-homework-06-smkenyon
+# bu-dx603-homework-06
